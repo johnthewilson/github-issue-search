@@ -62,7 +62,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
   - Might not be able to incorporate all the possible performance enhancements, edge cases and testing in the time given
   
 > What changes/additions would you make to the design?  
-  I think the design fits the basic use case of browsing through a open github repo, but some more basic features like showing details about the repo, displaying total issue count or issue summary. Adding pagination or a similar performance strategy would help ensure this app does not break if a repo returns a really big list of issues, given its current state it might slow down or crash. 
+ - I think the design fits the basic use case of browsing through a open github repo, but some more basic features like showing details about the repo, displaying total issue count or issue summary. Adding pagination or a similar performance strategy would help ensure this app does not break if a repo returns a really big list of issues, given its current state it might slow down or crash. 
   
 > List a two or three features that you would consider implementing in the future that would add significant value to the project.  
   - Authentication(Currently users can only access public repos, authentication would help us better understand and limit the api usage, let users view repos that they have access to.)
@@ -84,13 +84,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
   - .5 Hr: Debugging/Testing, Adding code to make it more performant as possible.
 
 > If you could go back and give yourself advice at the beginning of the project, what would it be?  
-   Cannot think of any right now. 
+  - Cannot think of any right now. 
   
 > Did you learn anything new?  
-  Learnt how NextJS has evolved since i last worked with it. All the frameworks were easy to install and work with and was a good refresher doing this project.
+  - Learnt how NextJS has evolved since i last worked with it. All the frameworks were easy to install and work with and was a good refresher doing this project.
   
 > Do you feel that this assignment allowed you to showcase your abilities effectively?  
-  Yes, it did. 
+  - Yes, it did. 
   
 > Are there any significant web development-related skills that you possess that were not demonstrated in this exercise? If so, what are they?
-  I think the exercise was good medium to showcase the basic skills that we use for most part of our jobs. Few skills that i can think of that i've accumalted over my years doing this; i had the chance to work on some really complex web animations, native mobile apps, setting up code standards and tools to ensure them, setting up CI/CD pipelines. 
+  - I think the exercise was good medium to showcase the basic skills that we use for most part of our jobs. Few skills that i can think of that i've accumalted over my years doing this; i had the chance to work on some really complex web animations, native mobile apps, setting up code standards and tools to ensure them, setting up CI/CD pipelines. 
